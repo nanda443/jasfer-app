@@ -36,7 +36,7 @@
 }
 
 .counter_section .counter_no p.head_couter {
-    color: rgba(255,255,255,.7);
+    color: rgba(255, 255, 255, 0.7);
 }
 
 #sidebar h4 {
@@ -47,7 +47,7 @@
 
 #sidebar {
     background-color: #fff;
-    background-image: url('images/layout_img/pattern_h.png');
+    background-image: url("images/layout_img/pattern_h.png");
 }
 
 #sidebar ul.components ul {
@@ -60,9 +60,9 @@
     padding-top: 12px;
     padding-bottom: 12px;
 }
- 
+
 #sidebar ul li a {
-	color: #222;
+    color: #222;
 }
 
 #sidebar ul.components ul li a {
@@ -73,7 +73,8 @@
     color: #0971b8;
 }
 
-#sidebar ul li a:hover, #sidebar ul li a:focus {
+#sidebar ul li a:hover,
+#sidebar ul li a:focus {
     color: #222;
 }
 
